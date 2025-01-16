@@ -1,130 +1,112 @@
 <!-- Header Banner -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vinoth&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A8E8&height=200&section=header&text=Vinoth&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white&desc=Full Stack Developer | Modern Designer&descAlignY=55"/>
 </div>
 
-<!-- Introduction with Typing SVG -->
+<!-- Introduction with Typing SVG - Updated with more dynamic phrases -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Modern+UI%2FUX+Designer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Crafting+Digital+Experiences;Modern+Full+Stack+Developer;UI%2FUX+Design+Enthusiast;Building+Innovative+Solutions" alt="Typing SVG" />
 </h1>
 
-<!-- Profile Views Counter -->
+<!-- Badges Section - Added more relevant badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mr-tamil-coder&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-00A8E8?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Experience-Internship-blueviolet?style=for-the-badge" alt="Experience"/>
 </p>
 
-<!-- About Me Section -->
-<h2>🚀 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+<!-- About Me Section - Enhanced with more details -->
+<h2>👨‍💻 About Me</h2>
 
-```javascript
-const vinoth = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "HTML", "CSS", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "design"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            database: ["MongoDB", "MySQL"]
-        },
-        design: ["Figma", "Adobe XD"]
+```typescript
+const vinoth: Developer = {
+    location: "Tamil Nadu, India",
+    education: "Computer Science Engineering",
+    currentRole: "Full Stack Developer Intern",
+    skills: {
+        frontend: ["React", "Redux", "Tailwind CSS", "Framer Motion"],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+        languages: ["JavaScript", "TypeScript", "Java"],
+        tools: ["Git", "Docker", "VS Code", "Figma"]
     },
-    currentFocus: "Building Full Stack Applications",
-    funFact: "I debug with console.log and pretend I knew the issue all along!"
+    currentFocus: [
+        "Building Full Stack Applications",
+        "Mastering Data Structures & Algorithms",
+        "Learning Next.js & TypeScript"
+    ],
+    passion: "Creating intuitive user experiences with modern technologies"
 };
 ```
 
-<!-- Tech Stack -->
-<h2>⚡ Tech Stack</h2>
+<!-- Current Goals Section - New addition -->
+<h2>🎯 2025 Goals</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" />
+  <img src="https://progress-bar.dev/40?title=DSA%20Problems&width=500&color=00A8E8" alt="DSA Progress"/>
+  <img src="https://progress-bar.dev/65?title=Full%20Stack%20Skills&width=500&color=00A8E8" alt="Full Stack Progress"/>
+  <img src="https://progress-bar.dev/30?title=System%20Design&width=500&color=00A8E8" alt="System Design Progress"/>
 </p>
 
-<!-- GitHub Stats -->
-<h2>📊 GitHub Statistics</h2>
+<!-- Tech Stack - Reorganized and categorized -->
+<h2>🛠️ Tech Stack</h2>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mr-tamil-coder&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Vinoth's github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tamil-coder&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
+<details>
+<summary>Frontend Development</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+</p>
+</details>
 
-<!-- Contribution Graph -->
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-tamil-coder&theme=radical" />
+<details>
+<summary>Backend Development</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+</details>
 
-<!-- Featured Projects -->
-<h2>🎯 Featured Projects</h2>
+<!-- Featured Projects - Enhanced with more details -->
+<h2>🚀 Featured Projects</h2>
 
 <div align="center">
   <a href="your-project-link">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-tamil-coder&repo=food-ordering-app&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mr-tamil-coder&repo=food-ordering-app&theme=react&bg_color=1F222E&title_color=00A8E8&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
   <a href="your-project-link">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mr-tamil-coder&repo=portfolio&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mr-tamil-coder&repo=portfolio&theme=react&bg_color=1F222E&title_color=00A8E8&icon_color=F8D866&hide_border=true&show_icons=false" />
   </a>
 </div>
 
-<!-- Streak Stats -->
+<!-- GitHub Stats - Modernized with custom themes -->
+<h2>📊 GitHub Stats</h2>
+
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-tamil-coder&theme=radical&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mr-tamil-coder&show_icons=true&count_private=true&hide_border=true&title_color=00A8E8&icon_color=00A8E8&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tamil-coder&layout=compact&hide_border=true&title_color=00A8E8&text_color=00A8E8&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
-<!-- Contribution Grid Snake -->
+<!-- LeetCode Stats - Added with custom styling -->
+<h2>💻 LeetCode Journey</h2>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mr-tamil-coder/mr-tamil-coder/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://leetcard.jacoblin.cool/vinoth2004?theme=nord&font=Adamina&ext=contest" alt="LeetCode Stats"/>
 </div>
 
-![Snake animation](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
-
-<!-- Connect With Me -->
-<h2>🤝 Connect With Me</h2>
-<div align="center">
-  <a href="your-linkedin-link" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="your-portfolio-link" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<!-- Connect Section - Enhanced with more platforms -->
+<h2>🤝 Let's Connect</h2>
+<p align="center">
+  <a href="your-linkedin-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="your-portfolio-link"><img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="your-twitter-link"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
-
-<!-- Activity Graph -->
-[![Vinoth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-tamil-coder&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
-
-<!-- Add this after your GitHub Stats section -->
-
-## 👨‍💻 LeetCode Stats
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mohanrajvinoth2004?theme=dark&font=Adamina" alt="LeetCode Stats" />
-</div>
-
-<!-- Replace your current snake animation with this simpler version -->
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00A8E8&height=120&section=footer"/>
 </div>
