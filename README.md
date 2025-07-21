@@ -120,6 +120,7 @@ console.log(vinoth.getMotivation());
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-tamil-coder&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-tamil-coder&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117"/>
 </div>
 
