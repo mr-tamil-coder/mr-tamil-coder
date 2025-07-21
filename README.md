@@ -142,7 +142,7 @@ const About = {
   },
 };
 
-console.log(funFacts.currentMood());
+console.log(About.currentMood());
 ```
 
 ---
